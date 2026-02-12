@@ -1,12 +1,4 @@
-/**          Mathematical Functions
- 
- * // Factorial: Write a function to calculate the factorial of a given number.
-
- * // Prime Number Check: Create a function to check if a number is prime or not
-
- * // Fibonacci Sequence: Implement a function to generate the fibonacci sequence up 
-   // to a given number of terms. (search on the net)
- */
+//        Mathematical Functions
 
  //  Declaration of themes/var
 let num = 7;

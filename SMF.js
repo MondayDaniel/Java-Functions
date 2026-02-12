@@ -1,13 +1,4 @@
-/**          String Manipulation Functions
- 
- * // Reverse String: Write a function that reverses a given string.
-
- * // Count Characters: Create a function that counts the number of characters in a 
-   // string.
-
- * // capitalize Words: Implement a function that capitalizes the first letter of each
-   //  word in a sentence.
- */
+  //    String Manipulation Functions
 
  // Declaration of themes/var
  const sentence = "string manipulation functions";
